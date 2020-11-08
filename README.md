@@ -1,1 +1,0 @@
-# check_full_array_in_another_array.sql
